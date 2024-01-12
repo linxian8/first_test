@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+在test分支中修改
+在test分支中再次修改
+成功合并
+<<<<<<< HEAD
+手动merge
+在主分支中修改
+在test分支中修改
+push前再次手动merge
+在主分支中再次修改
+>>>>>>> 4a4a3d71d84ac3c3e75db88a4d338826eeec5e17
+>>>>>>> a7a84c3cf3182b5998dcd72c4e5320b557ff7b28
